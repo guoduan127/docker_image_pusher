@@ -13,4 +13,6 @@
 #jumpserver/web:v2.25.2
 #jumpserver/jms_all:v2.8.4
 #xeden3/docker-excel-macro-run:v1
-xeden3/docker-office-python-core:v1
+#xeden3/docker-office-python-core:v1
+vinsdocker/jmserver
+vinsdocker/jmmaster
