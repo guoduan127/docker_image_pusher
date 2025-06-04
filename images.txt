@@ -16,5 +16,8 @@
 #xeden3/docker-office-python-core:v1
 #vinsdocker/jmserver
 #vinsdocker/jmmaster
-ansible/awx
-ansible/ansible
+#ansible/awx
+#ansible/ansible
+ruoyi-ai-backend:v2.0.5
+ruoyi-ai-admin:v2.0.5
+ruoyi-ai-web:v2.0.5
