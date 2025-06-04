@@ -18,6 +18,6 @@
 #vinsdocker/jmmaster
 #ansible/awx
 #ansible/ansible
-ruoyi-ai-backend:v2.0.5
-ruoyi-ai-admin:v2.0.5
-ruoyi-ai-web:v2.0.5
+ruoyi/ruoyi-ai-backend:v2.0.5
+ruoyi/ruoyi-ai-admin:v2.0.5
+ruoyi/ruoyi-ai-web:v2.0.5
